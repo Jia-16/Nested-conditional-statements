@@ -29,7 +29,7 @@ elif choice == 2:
     carType = int(input("Enter 1 or 2: "))
     if carType == 1:
         print("Ahh, you chose the Sedan because you have a very small family or you just don't have that much stuff to carry around. Respect.")
-        print("SPEED: 200 KM\H")
+        print("SPEED: 200 KM/H")
         print("Best Feature: Easier to steer and petrol tank has less capacity, saving you money, these prices are CRAZYYYY. I mean, 223.9 dolars for FUEL. AWH HECK NAWWWW! What is happening in this economy, next thing we know, it's going to be $100,000 or something like that.")
     else:
         print("Okay, I get it. This one is the best choice if you want space and room to fit seven people in it. great for going out with the mates for a hangout and the local arcade and have a great summer time. I'm jealous. *jumps into car* I CALL SHOTGUN! AND NO I DON'T CARE IF IT'S ALREADY BE CALLED.")
